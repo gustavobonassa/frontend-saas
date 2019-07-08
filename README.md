@@ -1,3 +1,14 @@
+yarn add react-app-rewired
+yarn add babel-plugin-root-import -D
+
+yarn add react-router-dom
+yarn add redux react-redux redux-saga axios
+
+yarn add reduxsauce seamless-immutable
+yarn add react-redux-toastr // cria msg de erro legal
+
+yarn add connected-react-router history
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
