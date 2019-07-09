@@ -9,6 +9,8 @@ yarn add react-redux-toastr // cria msg de erro legal
 
 yarn add connected-react-router history
 
+yarn add react-select
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
